@@ -6,7 +6,7 @@ The goal is to implement a simple similarity detector between book reviews from 
 
 ---
 
-## 🚀 How to run
+## How to run
 
 You can execute the project directly in **Google Colab** using the following badge:
 
