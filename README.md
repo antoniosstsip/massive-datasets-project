@@ -40,3 +40,12 @@ You can execute the project directly in **Google Colab** using the following bad
 - Dataset is downloaded dynamically (not included)
 
 ---
+## Contents
+
+- `project1.ipynb` – Main code with all logic
+- `project1.pdf` – Final report (LaTeX generated)
+
+## Author
+
+Antonios Tsipoulakos  
+Master in Computer Science, University of Milan
