@@ -6,7 +6,7 @@
 
 ---
 
-## 🔎 Project Overview
+##  Project Overview
 
 This project implements a basic similarity detector for Amazon book reviews, using **Jaccard Similarity** between tokenized texts.  
 The algorithm is implemented entirely **from scratch**, without relying on external similarity libraries.
@@ -16,17 +16,17 @@ You can run the project directly in Google Colab:
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - **Source**: [Amazon Books Reviews on Kaggle](https://www.kaggle.com/datasets/rajeevw/amazon-books-reviews)
 - **License**: Public domain (CC0)
 - **Used file**: `Books_rating.csv`, column `review/text`
 
-> 📌 The dataset is **downloaded dynamically** during notebook execution via Kaggle API. You must insert your own `KAGGLE_USERNAME` and `KAGGLE_KEY`. These should not be uploaded to the repository.
+>  The dataset is **downloaded dynamically** during notebook execution via Kaggle API. You must insert your own `KAGGLE_USERNAME` and `KAGGLE_KEY`. These should not be uploaded to the repository.
 
 ---
 
-## ⚙️ What the Code Does
+## What the Code Does
 
 - Installs required libraries automatically in Colab
 - Downloads and extracts dataset via Kaggle API
