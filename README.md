@@ -47,5 +47,4 @@ You can execute the project directly in **Google Colab** using the following bad
 
 ## Author
 
-Antonios Tsipoulakos  
-Master in Computer Science, University of Milan
+Antonios Tsipoulakos , erasmus student in Computer Science, University of Milan
